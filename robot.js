@@ -1,4 +1,5 @@
-// One approach to Chapter 7 of eloquentjavascript.net
+// One approach to Chapter 7 of eloquentjavascript.net http://eloquentjavascript.net/07_robot.html
+// Page offers animation of robot delivering parcels
 // License: MIT https://opensource.org/licenses/MIT
 
 "use strict";
