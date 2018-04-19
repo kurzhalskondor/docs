@@ -1,4 +1,5 @@
 // One approach to Chapter 7 of eloquentjavascript.net
+// License: MIT https://opensource.org/licenses/MIT
 
 "use strict";
 // jshint esversion: 6
